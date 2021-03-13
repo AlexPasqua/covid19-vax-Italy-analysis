@@ -1,0 +1,3 @@
+[submodule "covid19-opendata-vaccini"]
+	path = covid19-opendata-vaccini
+	url = https://github.com/AlexPasqua/covid19-opendata-vaccini
