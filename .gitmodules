@@ -1,3 +1,0 @@
-[submodule "covid19-opendata-vaccini"]
-	path = covid19-opendata-vaccini
-	url = https://github.com/italia/covid19-opendata-vaccini.git
